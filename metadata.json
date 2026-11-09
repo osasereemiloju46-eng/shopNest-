@@ -1,0 +1,6 @@
+{
+  "name": "ShopNest Android",
+  "description": "ShopNest for Android - Curated lifestyle, interior decor, smart tech, and home essentials with Material Design 3, Android gesture bar, Google Pay, and AR room preview.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
